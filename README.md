@@ -31,6 +31,14 @@ Supported platforms are:
 
 ----
 
+## Preview
+<img width="537" alt="Screenshot 2025-02-05 at 1 41 37 AM" src="https://github.com/user-attachments/assets/4a65ad1c-d641-4abd-bd5b-54a142769221" />
+<img width="537" alt="Screenshot 2025-02-05 at 1 41 59 AM" src="https://github.com/user-attachments/assets/b6a8e57e-b123-4519-9d4d-45c5d583107e" />
+<img width="537" alt="Screenshot 2025-02-05 at 1 42 30 AM" src="https://github.com/user-attachments/assets/bb240fb4-2e2f-447a-84a2-9cc0b8e48641" />
+
+----
+
+
 ## Installation Steps
 
 1. Clone or download the repository to your local machine.
