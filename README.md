@@ -32,9 +32,12 @@ Supported platforms are:
 ----
 
 ## Preview
-<img width="537" alt="Screenshot 2025-02-05 at 1 41 37 AM" src="https://github.com/user-attachments/assets/4a65ad1c-d641-4abd-bd5b-54a142769221" />
-<img width="537" alt="Screenshot 2025-02-05 at 1 41 59 AM" src="https://github.com/user-attachments/assets/b6a8e57e-b123-4519-9d4d-45c5d583107e" />
-<img width="537" alt="Screenshot 2025-02-05 at 1 42 30 AM" src="https://github.com/user-attachments/assets/bb240fb4-2e2f-447a-84a2-9cc0b8e48641" />
+<img width="528" alt="Screenshot 2025-02-05 at 1 55 17 AM" src="https://github.com/user-attachments/assets/57f7f2d7-fe72-4c5a-8347-20f18bcf55de" />
+
+<img width="537" alt="Screenshot 2025-02-05 at 1 55 37 AM" src="https://github.com/user-attachments/assets/e4d96461-07b9-445d-8fe7-9dcfd1e69648" />
+
+<img width="538" alt="Screenshot 2025-02-05 at 1 55 50 AM" src="https://github.com/user-attachments/assets/f53d277c-5dcf-4b53-b5ff-a05ba5886254" />
+
 
 ----
 
