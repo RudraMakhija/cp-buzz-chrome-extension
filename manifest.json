@@ -1,0 +1,27 @@
+{
+  "name": "CP-Buzz",
+  "description": "Stay updated with upcoming competitive programming contests for free",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "host_permissions": ["<all_urls>"],
+  "permissions": ["alarms", "notifications", "storage"],
+  "icons": {
+    "128": "logo/128.png",
+    "96": "logo/96.png",
+    "48": "logo/48.png",
+    "16": "logo/16.png"
+  },
+  "homepage_url": "https://www.linkedin.com/in/rudramakhija/",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "images/CPBuzz_logo.png"
+  },
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+0",
+        "mac": "Command+Shift+0"
+      }
+    }
+  }
+}
