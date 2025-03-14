@@ -26,6 +26,7 @@ Supported platforms are:
 
 * Sort contests based on duration (≤3 hours, ≤1 day, or all contests).
 * Sort contests based on platforms.
+* Clicking on contest details will redirect users to the contest page.
 * Users can enable alarm notifications for their contests. Once set, the extension will redirect them to the contest page 1 minute before the contest begins, provided the browser is open.
 * Access the extension quickly using the shortcut Cmd + Shift + 0 (Mac) or Ctrl + Shift + 0 (Windows/Linux).
 
